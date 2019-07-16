@@ -1,0 +1,21 @@
+p{
+	color: white;
+}
+p.intro{ color: white;
+}
+#cat1{
+	color: red;
+}
+body{
+	font-family:"Merriweather", monospace;
+	background-color: white;
+	background: url("excer.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center:
+	
+}
+button{
+	width: 100px;
+	height: 60px;
+}
